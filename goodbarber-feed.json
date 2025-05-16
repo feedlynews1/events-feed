@@ -1,28 +1,41 @@
 {
   "items": [
-    {
-      "title": "QFR \u2013 The High 5 Tour in New Jersey",
-      "description": "Live concert at Bridgewater Temple Auditorium.",
-      "date": "2025-05-16T19:00:00-05:00",
-      "location": "Bridgewater, NJ",
-      "image": "https://yourdomain.com/images/qfr.jpg",
-      "link": "https://events.sulekha.com/qfr"
-    },
-    {
-      "title": "Komic Karma \u2013 Hindi Standup in Iselin",
-      "description": "A hilarious Desi standup comedy night.",
-      "date": "2025-05-16T19:30:00-04:00",
-      "location": "Iselin, NJ",
-      "image": "https://yourdomain.com/images/komic.jpg",
-      "link": "https://events.sulekha.com/komic-karma"
-    },
-    {
-      "title": "Hindi Bollywood Comedy Night \u2013 Iselin, NJ",
-      "description": "Comedy show followed by Bollywood DJ afterparty.",
-      "date": "2025-05-16T20:30:00-04:00",
-      "location": "Iselin, NJ",
-      "image": "https://yourdomain.com/images/bollywood-comedy.jpg",
-      "link": "https://events.sulekha.com/hindi-bollywood-comedy-night"
-    }
-  ]
+      {
+          "allDay": 0,
+          "endDate": "2013-10-12T02:00:00+02:00",
+          "title": "PACIFIC w/ KOLSCH, KOLOMBO, THE MEKANISM, DACTYLO @SOCIAL CLUB",
+          "url": "https://www.google.com/calendar/event?eid=NGszaHV0bWJnODU3bWJ2dGU1NWRrcXVhcjAgYWdlbmRhbGFzdG5pZ2h0QG0",
+          "author": "Lastnight People",
+          "longitude": 0,
+          "thumbnail": "",
+          "content": "PACIFIC w/ KOLSCH live, KOLOMBO, THE MEKANISM, DACTYLO @  Social Club\n\n\n▬▬▬ LINE UP ▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n◆ KOLSCH live\nhttps://soundcloud.com/kolsch\nhttps://www.facebook.com/kolschofficial\n\n\n◆ KOLOMBO\nhttps://soundcloud.com/kolombo\nhttps://www.facebook.com/kolomboofficialfanpage\n\n\n◆ THE MEKANISM \nhttps://www.facebook.com/TheMekanism\nhttps://soundcloud.com/the-mekanism\n\n\n◆ DACTYLO\nhttps://www.facebook.com/pages/Dactylo/41578529752\nhttps://soundcloud.com/dactylo\n\n\n▬▬▬ INFOS PRATIQUES ▬▬▬▬▬▬▬▬\n\n23h / 13 euros en prévente, 15 euros sur place\n\nDigitick :https://www.digitick.com/pacific-kolsch-kolombo-the-mekanism-dactylo-soiree-le-social-club-paris-11-octobre-2013-css4-digitick-pg101-ri201129\n\nFacebook event URL is https://www.facebook.com/events/156488751215254",
+          "nbParticipants": 0,
+          "subtype": "custom",
+          "date": "2013-10-11T23:00:00+02:00",
+          "address": "Social Club, 142 rue Montmartre, Paris 75002",
+          "latitude": 0,
+          "type": "event",
+          "id": "4k3hutmbg857mbvte55dkquar0"
+      },
+      {
+          "allDay": 0,
+          "endDate": "2013-10-12T02:00:00+02:00",
+          "title": "PACIFIC w/ KOLSCH, KOLOMBO, THE MEKANISM, DACTYLO @SOCIAL CLUB",
+          "url": "https://www.google.com/calendar/event?eid=YzRnMDlwZHBrZXYzZ3NkMWkzMTFjMms3Y2MgYWdlbmRhbGFzdG5pZ2h0QG0",
+          "author": "Lastnight People",
+          "longitude": 0,
+          "thumbnail": "",
+          "content": "PACIFIC w/ KOLSCH live, KOLOMBO, THE MEKANISM, DACTYLO @  Social Club\n\n\n▬▬▬ LINE UP ▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n◆ KOLSCH live\nhttps://soundcloud.com/kolsch\nhttps://www.facebook.com/kolschofficial\n\n\n◆ KOLOMBO\nhttps://soundcloud.com/kolombo\nhttps://www.facebook.com/kolomboofficialfanpage\n\n\n◆ THE MEKANISM \nhttps://www.facebook.com/TheMekanism\nhttps://soundcloud.com/the-mekanism\n\n\n◆ DACTYLO\nhttps://www.facebook.com/pages/Dactylo/41578529752\nhttps://soundcloud.com/dactylo\n\n\n▬▬▬ INFOS PRATIQUES ▬▬▬▬▬▬▬▬\n\n23h / 13 euros en prévente, 15 euros sur place\n\nDigitick :https://www.digitick.com/pacific-kolsch-kolombo-the-mekanism-dactylo-soiree-le-social-club-paris-11-octobre-2013-css4-digitick-pg101-ri201129\n\nFacebook event URL is https://www.facebook.com/events/156488751215254",
+          "nbParticipants": 0,
+          "subtype": "custom",
+          "date": "2013-10-11T23:00:00+02:00",
+          "address": "Social Club, 142 rue Montmartre, Paris 75002",
+          "latitude": 0,
+          "type": "event",
+          "id": "c4g09pdpkev3gsd1i311c2k7cc"
+      }
+  ],
+  "next_page": null,
+  "generated_in": "0.120000 s",
+  "stat": "ok"
 }
