@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "QFR \u2013 The High 5 Tour in New Jersey",
+      "description": "Live concert at Bridgewater Temple Auditorium.",
+      "date": "2025-05-16T19:00:00-05:00",
+      "location": "Bridgewater, NJ",
+      "image": "https://yourdomain.com/images/qfr.jpg",
+      "link": "https://events.sulekha.com/qfr"
+    },
+    {
+      "title": "Komic Karma \u2013 Hindi Standup in Iselin",
+      "description": "A hilarious Desi standup comedy night.",
+      "date": "2025-05-16T19:30:00-04:00",
+      "location": "Iselin, NJ",
+      "image": "https://yourdomain.com/images/komic.jpg",
+      "link": "https://events.sulekha.com/komic-karma"
+    },
+    {
+      "title": "Hindi Bollywood Comedy Night \u2013 Iselin, NJ",
+      "description": "Comedy show followed by Bollywood DJ afterparty.",
+      "date": "2025-05-16T20:30:00-04:00",
+      "location": "Iselin, NJ",
+      "image": "https://yourdomain.com/images/bollywood-comedy.jpg",
+      "link": "https://events.sulekha.com/hindi-bollywood-comedy-night"
+    }
+  ]
+}
