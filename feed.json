@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": "qfr-nj-2025",
+      "title": "QFR \u2013 The High 5 Tour in New Jersey",
+      "description": "\ud83c\udfa4 Get ready for a sensational musical experience! Join QFR \u2013 The High 5 Tour in Bridgewater for an electrifying night of soulful melodies, powerful beats, and unforgettable performances. \ud83c\udfb6\n\n\u2b50 Event Highlights:\n- Live Performance by QFR\n- High-Energy Stage Presence\n- Mesmerizing Vocals\n- Fan Interaction & Unmatched Vibes\n\n\ud83c\udf9f\ufe0f Tickets from $35 to $125 \u2014 Selling Fast!\n\ud83d\udccd Venue: Sri Venkateswara Temple Auditorium, Bridgewater, NJ",
+      "start_date": "2025-05-16T19:00:00-05:00",
+      "end_date": "2025-05-16T22:00:00-05:00",
+      "location": "Sri Venkateswara Temple Auditorium, Balaji Temple Drive, Bridgewater, NJ 08807",
+      "lat": 40.5942,
+      "lng": -74.6146,
+      "image_url": "https://yourdomain.com/images/qfr-tour.jpg",
+      "ticket_url": "https://events.sulekha.com/qfr-the-high-5-tour-in-new-jersey_event-in_bridgewater-nj_384744",
+      "price_range": "$35 - $125",
+      "city": "Bridgewater",
+      "category": "Concert",
+      "radio_summary": "This Friday in Bridgewater, QFR brings their High 5 Tour to the Temple Auditorium \u2014 live hits, fan energy, and soul-stirring music!",
+      "newsletter_excerpt": "\ud83c\udfb6 Don't miss QFR live in NJ! May 16 at the Sri Venkateswara Temple Auditorium.",
+      "tags": [
+        "QFR",
+        "concert",
+        "Bridgewater",
+        "Desi",
+        "music",
+        "New Jersey"
+      ]
+    },
+    {
+      "id": "komic-karma-iselin-2025",
+      "title": "Komic Karma \u2013 Hindi Standup Comedy Show in Iselin",
+      "description": "\ud83e\udd23 Get ready to laugh till your cheeks hurt! Komic Karma brings you a night of sharp, relatable Hindi stand-up comedy in Iselin, NJ. \n\n\ud83c\udfad Featuring:\n- Real-life Desi anecdotes\n- Observational humor\n- Crowd work that keeps you engaged\n- A chill night of fun, food, and laughter!\n\nWhether you're Desi by roots or vibes, this show is your comedy fix. Don\u2019t miss it!",
+      "start_date": "2025-05-16T19:30:00-04:00",
+      "end_date": "2025-05-16T22:00:00-04:00",
+      "location": "Big Shots Restaurant & Lounge, 780 U.S. 1, Iselin, NJ 08830",
+      "lat": 40.5704,
+      "lng": -74.3142,
+      "image_url": "https://yourdomain.com/images/komic-karma.jpg",
+      "ticket_url": "https://events.sulekha.com/komic-karma-hindi-standup-comedy-show-in-iselin_event-in_iselin-nj_385843",
+      "price_range": "$25",
+      "city": "Iselin",
+      "category": "Comedy",
+      "radio_summary": "Laugh your heart out this Friday in Iselin at Komic Karma \u2014 a Desi comedy night with sharp humor and real-life chaos!",
+      "newsletter_excerpt": "\ud83c\udfa4 Komic Karma hits Iselin! Don\u2019t miss this hilarious Desi comedy night. $25 only!",
+      "tags": [
+        "Komic Karma",
+        "comedy",
+        "Iselin",
+        "standup",
+        "Desi",
+        "New Jersey",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "bollywood-comedy-night-iselin-2025",
+      "title": "Hindi Bollywood Comedy Night \u2013 Big Shots, Woodbridge NJ",
+      "description": "\ud83e\udd23 Laugh, dance, and party at the Hindi Bollywood Comedy Night! An epic evening of stand-up comedy followed by a high-energy Desi DJ afterparty at Big Shots, Iselin.\n\n\ud83c\udfad Comedy Highlights:\n- Stand-up performances on Desi life, culture & chaos\n- Admission starts at $20\n\n\ud83c\udf89 Bollywood Bash Afterparty:\n- DJ spinning Bollywood, Bhangra, and party tracks\n- Full bar & food available\n\n\ud83d\uddd3 Date: Friday, May 16\n\u23f0 Time: Comedy show at 8:30 PM\n\ud83d\udccd Big Shots Restaurant & Lounge, Iselin, NJ\n\n\ud83c\udf9f\ufe0f Limited seating! Book now and bring your squad.",
+      "start_date": "2025-05-16T20:30:00-04:00",
+      "end_date": "2025-05-16T23:30:00-04:00",
+      "location": "Big Shots Restaurant & Lounge, 780 US-1, Iselin, NJ 08830",
+      "lat": 40.5704,
+      "lng": -74.3142,
+      "image_url": "https://yourdomain.com/images/bollywood-comedy-night.jpg",
+      "ticket_url": "https://events.sulekha.com/hindi-bollywood-comedy-night-big-shots-woodbridge-new-jersey_event-in_iselin-nj_386069",
+      "price_range": "$20 - $30",
+      "city": "Iselin",
+      "category": "Comedy + Party",
+      "radio_summary": "This Friday night in Iselin \u2014 laugh it up at the Bollywood Comedy Night, then dance all night with Desi DJ beats at Big Shots!",
+      "newsletter_excerpt": "\ud83d\ude02 + \ud83d\udd7a Iselin\u2019s Comedy + Bollywood Night is here! May 16, 8:30 PM. Tix from $20.",
+      "tags": [
+        "comedy",
+        "bollywood",
+        "Desi",
+        "Iselin",
+        "party",
+        "New Jersey",
+        "Bhangra"
+      ]
+    }
+  ]
+}
